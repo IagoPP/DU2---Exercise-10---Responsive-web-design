@@ -36,7 +36,7 @@ body {
 }
 
 article {
-    width: 414px;
+    width: 384px;
     border-style: solid;
     border-radius: 0.5em;
     border-width: 0.7em;
@@ -50,14 +50,14 @@ article {
 }
 
 article>img {
-    padding-left: 62.5px;
-    padding-right: 62.5px;
+    padding-left: 57.5px;
+    padding-right: 57.5px;
     border-style: solid;
     border-radius: 100%;
     border-width: 0.7em;
     border-color: #231F44;
     background-color: #FFF9EF;
-    width: 250px;
+    width: 230px;
 }
 
 ul {
@@ -126,7 +126,7 @@ li img:hover{
     }
 
     #footext{
-        height: 410px;
+        height: 380px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
